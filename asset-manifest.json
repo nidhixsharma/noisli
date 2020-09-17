@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/noisli/static/css/main.0560675b.chunk.css",
+    "main.js": "/noisli/static/js/main.5f3fe6ed.chunk.js",
+    "main.js.map": "/noisli/static/js/main.5f3fe6ed.chunk.js.map",
+    "runtime-main.js": "/noisli/static/js/runtime-main.2a50884d.js",
+    "runtime-main.js.map": "/noisli/static/js/runtime-main.2a50884d.js.map",
+    "static/js/2.bbfd6cdb.chunk.js": "/noisli/static/js/2.bbfd6cdb.chunk.js",
+    "static/js/2.bbfd6cdb.chunk.js.map": "/noisli/static/js/2.bbfd6cdb.chunk.js.map",
+    "index.html": "/noisli/index.html",
+    "precache-manifest.1d5e266b61c87b213963a0d4bacad6d9.js": "/noisli/precache-manifest.1d5e266b61c87b213963a0d4bacad6d9.js",
+    "service-worker.js": "/noisli/service-worker.js",
+    "static/css/main.0560675b.chunk.css.map": "/noisli/static/css/main.0560675b.chunk.css.map",
+    "static/js/2.bbfd6cdb.chunk.js.LICENSE.txt": "/noisli/static/js/2.bbfd6cdb.chunk.js.LICENSE.txt",
+    "static/media/Processed_White_Noise.mp3": "/noisli/static/media/Processed_White_Noise.7d443c96.mp3",
+    "static/media/Whitenoise.wav": "/noisli/static/media/Whitenoise.8af88bf3.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a50884d.js",
+    "static/js/2.bbfd6cdb.chunk.js",
+    "static/css/main.0560675b.chunk.css",
+    "static/js/main.5f3fe6ed.chunk.js"
+  ]
+}
